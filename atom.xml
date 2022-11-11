@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Macis</title>
+  
+  
+  <link href="https://pojji.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://pojji.xyz/"/>
+  <updated>2022-11-11T09:09:58.230Z</updated>
+  <id>https://pojji.xyz/</id>
+  
+  <author>
+    <name>Macis</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 Obsidian 模板快速创建hexo博客的 Front-matter</title>
+    <link href="https://pojji.xyz/2022/11/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%BD%BF%E7%94%A8-Obsidian-%E6%A8%A1%E6%9D%BF%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E7%9A%84-Front-matter/7f9e318c3a4c.html"/>
+    <id>https://pojji.xyz/2022/11/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%BD%BF%E7%94%A8-Obsidian-%E6%A8%A1%E6%9D%BF%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E7%9A%84-Front-matter/7f9e318c3a4c.html</id>
+    <published>2022-11-11T07:23:37.000Z</published>
+    <updated>2022-11-11T09:09:58.230Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1、创建模板"><a href="#1、创建模板" class="headerlink" title="1、创建模板"></a>1、创建模板</h2><p>我们可以在 hexo站点下的 source 目录下创建一个模板文件夹 <em>Template</em>，并创建一个模板文件 <em>Front-matter.md</em>，内容为：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123;title&#125;&#125;</span><br><span class="line">date: &#123;&#123;date&#125;&#125;</span><br><span class="line">categories: &#123;&#123;&#125;&#125;</span><br><span class="line">tags: []</span><br><span class="line">---</span><br></pre></td></tr></table></figure><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/macis/images/20221111153901.png"></p><h2 id="2、设置模板"><a href="#2、设置模板" class="headerlink" title="2、设置模板"></a>2、设置模板</h2><p>找到 Obsidian 的【设置】，在『核心插件』选项卡中单击【模板】，填入模板文件夹的位置，并可自定义日期格式（默认即可）：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/20221111153537.png"></p><h2 id="3、使用模板"><a href="#3、使用模板" class="headerlink" title="3、使用模板"></a>3、使用模板</h2><p>单击左侧工具栏的【插入模板】按钮即可插入模板：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/20221111153815.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;1、创建模板&quot;&gt;&lt;a href=&quot;#1、创建模板&quot; class=&quot;headerlink&quot; title=&quot;1、创建模板&quot;&gt;&lt;/a&gt;1、创建模板&lt;/h2&gt;&lt;p&gt;我们可以在 hexo站点下的 source 目录下创建一个模板文件夹 &lt;em&gt;Template&lt;/em&gt;，并创建一个模板文件 &lt;em&gt;Front-matter.md&lt;/em&gt;，内容为：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;title: &amp;#123;&amp;#123;title&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;date: &amp;#123;&amp;#123;date&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;categories: &amp;#123;&amp;#123;&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;tags: []&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="解决方案" scheme="https://pojji.xyz/categories/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
+    
+    <category term="obsidian" scheme="https://pojji.xyz/tags/obsidian/"/>
+    
+    <category term="Front-matter" scheme="https://pojji.xyz/tags/Front-matter/"/>
+    
+    <category term="模板" scheme="https://pojji.xyz/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022-11-09 如何在基于hexo + github 的博客文章中插入图片</title>
+    <link href="https://pojji.xyz/2022/11/09/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9F%BA%E4%BA%8Ehexo-github-%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/a88c686f81a3.html"/>
+    <id>https://pojji.xyz/2022/11/09/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9F%BA%E4%BA%8Ehexo-github-%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/a88c686f81a3.html</id>
+    <published>2022-11-09T14:24:55.309Z</published>
+    <updated>2022-11-11T09:10:02.567Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>我们知道，基于 <strong>Hexo+GitHub Pages</strong> 可实现远程的静态博客功能，在实际使用过程中，我们如果在某一篇博客内添加了图片，往往会由于图片的引用路径和远程仓库中图片路径不一致，导致在本地正常显示的图片部署到github 仓库后出现图片无效的问题。我们可以通过以下方法解决以上问题。</p><span id="more"></span><h2 id="1、新建img文件夹"><a href="#1、新建img文件夹" class="headerlink" title="1、新建img文件夹"></a>1、新建img文件夹</h2><p>在站点目录下的source目录下新建img文件夹：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109195624.png"></p><h2 id="2、设置Typora的图片插入"><a href="#2、设置Typora的图片插入" class="headerlink" title="2、设置Typora的图片插入"></a>2、设置Typora的图片插入</h2><p>找到Typora的【偏好设置】 –&gt; 【图片插入】，选择【复制图片到.&#x2F;${filename}.assets文件夹】<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109200109.png"></p><p>并勾选以下三个功能选项：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109200425.png"></p><h2 id="3、设置当插入本地图片时复制到文件夹"><a href="#3、设置当插入本地图片时复制到文件夹" class="headerlink" title="3、设置当插入本地图片时复制到文件夹"></a>3、设置当插入本地图片时复制到文件夹</h2><p>找到Typora的【编辑】选项卡 –&gt;【图片工具】–&gt;【当插入本地图片时】–&gt;【复制到文件夹…】：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109200002.png"></p><p>选择在source目录下新建的img文件夹：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109195809.png"></p><p>点击确认后我们可以发现文件头出现<em>typora-copy-images-to: ..\img</em> 的字样，表示我们配置成功：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201006.png"></p><h2 id="4、设置图片根目录"><a href="#4、设置图片根目录" class="headerlink" title="4、设置图片根目录"></a>4、设置图片根目录</h2><p>找到Typora的【编辑】选项卡 –&gt;【图片工具】–&gt;【设置图片根目录】<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201446.png"></p><p>选择站点目录下的<em>source</em>文件夹，也就是<em>img</em>文件夹的上级：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201423.png"></p><p>点击确认后我们可以发现文件头出现<em>typora-root-url: ..</em> 的字样，表示我们配置成功<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201540.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;我们知道，基于 &lt;strong&gt;Hexo+GitHub Pages&lt;/strong&gt; 可实现远程的静态博客功能，在实际使用过程中，我们如果在某一篇博客内添加了图片，往往会由于图片的引用路径和远程仓库中图片路径不一致，导致在本地正常显示的图片部署到github 仓库后出现图片无效的问题。我们可以通过以下方法解决以上问题。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="解决方案" scheme="https://pojji.xyz/categories/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
+    
+    <category term="hexo" scheme="https://pojji.xyz/tags/hexo/"/>
+    
+    <category term="图片" scheme="https://pojji.xyz/tags/%E5%9B%BE%E7%89%87/"/>
+    
+    <category term="Typora" scheme="https://pojji.xyz/tags/Typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022-11-08 下载并更改 hexo 默认主题</title>
+    <link href="https://pojji.xyz/2022/11/09/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%B8%8B%E8%BD%BD%E5%B9%B6%E6%9B%B4%E6%94%B9-hexo-%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A2%98/befcd57230ed.html"/>
+    <id>https://pojji.xyz/2022/11/09/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%B8%8B%E8%BD%BD%E5%B9%B6%E6%9B%B4%E6%94%B9-hexo-%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A2%98/befcd57230ed.html</id>
+    <published>2022-11-09T08:20:17.155Z</published>
+    <updated>2022-11-11T09:09:46.137Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>以 Hexo框架搭建的站点有两份主要的配置文件，其名称都是 <em>_config.yml</em> 。 其中，一份位于站点根目录下，主要包含 Hexo 本身的配置；另一份位于主题目录下，这份配置由主题作者提供，主要用于配置主题相关的选项。<br>一般我们将前者称为“站点配置文件”， 后者称为“主题配置文件”。</p><span id="more"></span><h2 id="1、主题下载"><a href="#1、主题下载" class="headerlink" title="1、主题下载"></a>1、主题下载</h2><p>找到任意主题的下载地址，在终端窗口下，定位到 Hexo 站点根目录下。使用 Git 命令下载。主题下载地址在github项目中有提供：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109161655.png"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https://github.com/ppoffice/hexo-theme-icarus.git</span><br></pre></td></tr></table></figure><h2 id="2、更改主题"><a href="#2、更改主题" class="headerlink" title="2、更改主题"></a>2、更改主题</h2><p>当 克隆&#x2F;下载 完成后，打开站点配置文件  <em>_config.yml</em> ， 找到 theme 字段，并将其值更改为 next。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: icarus</span><br></pre></td></tr></table></figure><ul><li>验证之前， 我们最好使用 hexo clean 来清除 Hexo 的缓存。</li></ul><h2 id="快捷下载并更改主题"><a href="#快捷下载并更改主题" class="headerlink" title="快捷下载并更改主题"></a>快捷下载并更改主题</h2><p>除了执行以上命令可以下载并更改主题外，你还可以尝试以下方法下载并更改默认主题：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-theme-icarus</span><br><span class="line">$ hexo config theme icarus</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221108203058.png"></p><p><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221108203105.png"></p><ul><li>icarus 为 主题名称</li></ul><h2 id="3、主题验证"><a href="#3、主题验证" class="headerlink" title="3、主题验证"></a>3、主题验证</h2><p>启动 Hexo 本地站点，并开启调试模式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s --debug</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221108204001.png"></p><p>当命令行输出中提示：</p><blockquote><p>INFO  Hexo is running at <a href="http://0.0.0.0:4000/">http://0.0.0.0:4000/</a>. Press Ctrl+C to stop.</p></blockquote><p>此时即可使用浏览器访问 <a href="http://localhost:4000，检查站点是否正确运行。">http://localhost:4000，检查站点是否正确运行。</a></p><p>当你看到站点的外观与下图所示类似时即说明你已成功安装 icarus 主题：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221108203937.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;以 Hexo框架搭建的站点有两份主要的配置文件，其名称都是 &lt;em&gt;_config.yml&lt;/em&gt; 。 其中，一份位于站点根目录下，主要包含 Hexo 本身的配置；另一份位于主题目录下，这份配置由主题作者提供，主要用于配置主题相关的选项。&lt;br&gt;一般我们将前者称为“站点配置文件”， 后者称为“主题配置文件”。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="解决方案" scheme="https://pojji.xyz/categories/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
+    
+    <category term="hexo_theme" scheme="https://pojji.xyz/tags/hexo-theme/"/>
+    
+    <category term="hexo主题" scheme="https://pojji.xyz/tags/hexo%E4%B8%BB%E9%A2%98/"/>
+    
+    <category term="主题" scheme="https://pojji.xyz/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://pojji.xyz/2022/11/08/hello-world/1a5fe8bc0443.html"/>
+    <id>https://pojji.xyz/2022/11/08/hello-world/1a5fe8bc0443.html</id>
+    <published>2022-11-08T08:14:06.961Z</published>
+    <updated>2022-11-11T09:09:52.434Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="hello_world" scheme="https://pojji.xyz/tags/hello-world/"/>
+    
+  </entry>
+  
+</feed>
