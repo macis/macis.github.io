@@ -6,7 +6,7 @@
   <link href="https://pojji.xyz/atom.xml" rel="self"/>
   
   <link href="https://pojji.xyz/"/>
-  <updated>2022-11-11T09:09:58.230Z</updated>
+  <updated>2022-11-11T14:02:06.819Z</updated>
   <id>https://pojji.xyz/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://pojji.xyz/2022/11/11/Pasted-image-20221109194613-png/885596a56466.html"/>
+    <id>https://pojji.xyz/2022/11/11/Pasted-image-20221109194613-png/885596a56466.html</id>
+    <published>2022-11-11T14:02:06.819Z</published>
+    <updated>2022-11-11T14:02:06.819Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>使用 Obsidian 模板快速创建hexo博客的 Front-matter</title>
@@ -39,6 +52,29 @@
     <category term="Front-matter" scheme="https://pojji.xyz/tags/Front-matter/"/>
     
     <category term="模板" scheme="https://pojji.xyz/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022-11-09 如何在Typora中添加配置头</title>
+    <link href="https://pojji.xyz/2022/11/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2022-11-09-%E5%A6%82%E4%BD%95%E5%9C%A8Typora%E4%B8%AD%E6%B7%BB%E5%8A%A0%E9%85%8D%E7%BD%AE%E5%A4%B4/67d0be374a80.html"/>
+    <id>https://pojji.xyz/2022/11/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2022-11-09-%E5%A6%82%E4%BD%95%E5%9C%A8Typora%E4%B8%AD%E6%B7%BB%E5%8A%A0%E9%85%8D%E7%BD%AE%E5%A4%B4/67d0be374a80.html</id>
+    <published>2022-11-10T16:00:00.000Z</published>
+    <updated>2022-11-11T14:03:06.202Z</updated>
+    
+    <content type="html"><![CDATA[<p>在第一行输入三个横杆（-）后回车即可：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109194613.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在第一行输入三个横杆（-）后回车即可：&lt;br&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109194613.png&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Typora" scheme="https://pojji.xyz/tags/Typora/"/>
     
   </entry>
   
