@@ -6,7 +6,7 @@
   <link href="https://pojji.xyz/atom.xml" rel="self"/>
   
   <link href="https://pojji.xyz/"/>
-  <updated>2022-11-21T11:39:38.985Z</updated>
+  <updated>2022-11-21T11:46:09.578Z</updated>
   <id>https://pojji.xyz/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://pojji.xyz/2022/11/18/2022-11-18-1929%E5%B9%B4%E5%A4%A7%E8%95%AD%E6%A2%9D%E5%8D%B3%E5%B0%87%E9%87%8D%E6%BC%94%EF%BC%9F%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/6f1306a0f92a.html"/>
     <id>https://pojji.xyz/2022/11/18/2022-11-18-1929%E5%B9%B4%E5%A4%A7%E8%95%AD%E6%A2%9D%E5%8D%B3%E5%B0%87%E9%87%8D%E6%BC%94%EF%BC%9F%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/6f1306a0f92a.html</id>
     <published>2022-11-17T16:00:00.000Z</published>
-    <updated>2022-11-21T11:39:38.985Z</updated>
+    <updated>2022-11-21T11:46:09.578Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>点击视频进行播放：</p>bad asset path...]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>点击视频进行播放：</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"lang":"zh-cn//语言","screenshot":true,"hotkey":true,"preload":"auto","volume":0.9,"video":{"url":"https://sloth.cdnja.co/v/xw/XW1mW.mp4","pic":"1.jpg"},"danmaku":{"id":"9E2E3368B56CD123BB4","api":"https://api.prprpr.me/dplayer/","token":"tokendemo","maximum":1000,"addition":["['https://api.prprpr.me/dplayer/v3/bilibili?aid=4157142']"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     
       
