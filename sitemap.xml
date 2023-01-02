@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yangping.xyz/2023/01/02/hello-world-%F0%9F%91%8B/aff9b98a2c3b.html</loc>
+    
+    <lastmod>2023-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%B8%8B%E8%BD%BD%E5%B9%B6%E6%9B%B4%E6%94%B9-hexo-%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A2%98%F0%9F%8E%88/a754b43add73.html</loc>
     
     <lastmod>2023-01-02</lastmod>
@@ -125,6 +134,13 @@
   
   <url>
     <loc>https://yangping.xyz/tags/%E4%B8%BB%E9%A2%98/</loc>
+    <lastmod>2023-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yangping.xyz/tags/hello-world/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
