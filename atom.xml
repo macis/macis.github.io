@@ -6,7 +6,7 @@
   <link href="https://yangping.xyz/atom.xml" rel="self"/>
   
   <link href="https://yangping.xyz/"/>
-  <updated>2023-01-02T04:35:25.843Z</updated>
+  <updated>2023-01-02T04:41:38.811Z</updated>
   <id>https://yangping.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Mon Jan 02 2023 00:00:00 GMT+0800 (中国标准时间)</title>
+    <title>2023-01-02 给博客添加网站地图sitemap</title>
     <link href="https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2023-01-02-%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BEsitemap/535df5ccd638.html"/>
     <id>https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2023-01-02-%E7%BB%99%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BEsitemap/535df5ccd638.html</id>
     <published>2023-01-01T16:00:00.000Z</published>
-    <updated>2023-01-02T04:35:25.843Z</updated>
+    <updated>2023-01-02T04:41:38.811Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>参考：<a href="https://blog.csdn.net/qq_41793001/article/details/103055201?spm=1001.2101.3001.4242.1&utm_relevant_index=2">hexo之icarus主题的美化修改以及简单的SEO配置_珂泽的博客-CSDN博客_icarus修改</a><br>搜索引擎每天让蜘蛛在网站爬行来抓取页面，网站地图的作用就是给主动给蜘蛛喂数据，网站地图位于网站根目录下，有sitemap.html和sitemap.xml两种格式。百度搜索引擎及多数搜索引擎使用html格式，谷歌使用xml格式。</p><h2 id="1、安装网站地图生成插件"><a href="#1、安装网站地图生成插件" class="headerlink" title="1、安装网站地图生成插件"></a>1、安装网站地图生成插件</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save #sitemap.xml适合提交给谷歌搜素引擎</span><br><span class="line">npm install hexo-generator-baidu-sitemap --save #baidusitemap.xml适合提交百度搜索引擎</span><br><span class="line"></span><br></pre></td></tr></table></figure><span id="more"></span><h2 id="2、在站点配置文件-config-yml中添加以下代码"><a href="#2、在站点配置文件-config-yml中添加以下代码" class="headerlink" title="2、在站点配置文件_config.yml中添加以下代码"></a>2、在站点配置文件_config.yml中添加以下代码</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># URL</span><br><span class="line">## If your site is put in a subdirectory, set url as &#x27;http://yoursite.com/child&#x27; and root as &#x27;/child/&#x27;</span><br><span class="line">url: http://你的网站</span><br></pre></td></tr></table></figure><h2 id="3、修改文章链接显示方式"><a href="#3、修改文章链接显示方式" class="headerlink" title="3、修改文章链接显示方式"></a>3、修改文章链接显示方式</h2><p>打开博客根目录下的_config.yml，找到URL的配置项并修改</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">url: https://yangping.xyz</span><br><span class="line"></span><br><span class="line"># 修改 permalink 让你的文章链接更加友好，并且有益于 SEO</span><br><span class="line"># permalink: &#x27;:year/:month/:day/:title/&#x27;</span><br><span class="line">permalink: :year/:month/:day/:title/:hash.html</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -30,6 +30,8 @@
 &lt;h2 id=&quot;1、安装网站地图生成插件&quot;&gt;&lt;a href=&quot;#1、安装网站地图生成插件&quot; class=&quot;headerlink&quot; title=&quot;1、安装网站地图生成插件&quot;&gt;&lt;/a&gt;1、安装网站地图生成插件&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-generator-sitemap --save #sitemap.xml适合提交给谷歌搜素引擎&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-generator-baidu-sitemap --save #baidusitemap.xml适合提交百度搜索引擎&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
+    
+    <category term="解决方案" scheme="https://yangping.xyz/categories/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
     
     
     <category term="网站地图" scheme="https://yangping.xyz/tags/%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE/"/>
