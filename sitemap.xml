@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9F%BA%E4%BA%8Ehexo-github-%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%F0%9F%96%BB/32bb1f000929.html</loc>
+    
+    <lastmod>2023-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yangping.xyz/2023/01/01/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2023-01-01%E9%94%AD%E7%89%87%E3%80%81%E8%83%B6%E5%9B%8A%F0%9F%92%8A%E3%80%81%E6%B3%A8%E5%B0%84%E6%B6%B2%F0%9F%92%89%E2%80%A6%E7%AD%89%E7%AD%89-%E2%80%93-%E4%BD%95%E8%80%85%E4%B8%BA%E8%A1%A5%E5%85%85%E5%93%81%E7%9A%84%E6%9C%80%E4%BD%B3%E5%BD%A2%E5%BC%8F%EF%BC%9F/bf5c551bf863.html</loc>
     
     <lastmod>2023-01-02</lastmod>
@@ -81,6 +90,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://yangping.xyz/tags/hexo/</loc>
+    <lastmod>2023-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yangping.xyz/tags/%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2023-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://yangping.xyz/tags/Typora/</loc>
