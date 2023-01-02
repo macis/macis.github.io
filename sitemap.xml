@@ -472,4 +472,11 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://yangping.xyz/categories/%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C/</loc>
+    <lastmod>2023-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 </urlset>
