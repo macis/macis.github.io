@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yangping.xyz/2023/01/01/%E5%8A%9F%E8%83%BD%E5%8C%BB%E5%AD%A6-2023-01-01%E5%8A%9F%E8%83%BD%E5%8C%BB%E5%AD%A6%E2%9A%95%EF%B8%8F%E5%B8%B8%E5%81%9A%E7%9A%84%E5%87%A0%E7%A7%8D%E6%A3%80%E6%B5%8B%F0%9F%94%AC/9948108d7788.html</loc>
+    
+    <lastmod>2023-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yangping.xyz/2023/01/02/hello-world-%F0%9F%91%8B/aff9b98a2c3b.html</loc>
     
     <lastmod>2023-01-02</lastmod>
@@ -86,15 +95,6 @@
     <loc>https://yangping.xyz/Template/Front-matter.html</loc>
     
     <lastmod>2023-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangping.xyz/2023/01/01/%E5%8A%9F%E8%83%BD%E5%8C%BB%E5%AD%A6-2023-01-01%E5%8A%9F%E8%83%BD%E5%8C%BB%E5%AD%A6%E2%9A%95%EF%B8%8F%E5%B8%B8%E5%81%9A%E7%9A%84%E5%87%A0%E7%A7%8D%E6%A3%80%E6%B5%8B%F0%9F%94%AC/9948108d7788.html</loc>
-    
-    <lastmod>2023-01-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
