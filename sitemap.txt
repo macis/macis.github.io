@@ -6,7 +6,6 @@ https://yangping.xyz/2023/01/01/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2023-01-01%
 https://yangping.xyz/2023/01/01/%E5%8A%9F%E8%83%BD%E5%8C%BB%E5%AD%A6-2023-01-01%E5%8A%9F%E8%83%BD%E5%8C%BB%E5%AD%A6%E2%9A%95%EF%B8%8F%E5%B8%B8%E5%81%9A%E7%9A%84%E5%87%A0%E7%A7%8D%E6%A3%80%E6%B5%8B%F0%9F%94%AC/9948108d7788.html
 https://yangping.xyz/2022/12/22/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2022-12-06-%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%96%B9%E6%B3%95%E5%8F%8A%E8%AF%AF%E5%8C%BA%E5%88%86%E6%9E%90/8a5c2bf098db.html
 https://yangping.xyz/2022/11/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2022-11-09-%E5%A6%82%E4%BD%95%E5%9C%A8Typora%E4%B8%AD%E6%B7%BB%E5%8A%A0Front-matter/d8b7fd6018ac.html
-https://yangping.xyz/2022/11/09/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9F%BA%E4%BA%8Ehexo-github-%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/a88c686f81a3.html
 https://yangping.xyz/2022/11/11/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%BD%BF%E7%94%A8-Obsidian-%E6%A8%A1%E6%9D%BF%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E7%9A%84-Front-matter/7f9e318c3a4c.html
 https://yangping.xyz/2022/11/08/hello-world/1a5fe8bc0443.html
 https://yangping.xyz/2022/11/09/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%B8%8B%E8%BD%BD%E5%B9%B6%E6%9B%B4%E6%94%B9-hexo-%E9%BB%98%E8%AE%A4%E4%B8%BB%E9%A2%98/befcd57230ed.html
@@ -15,8 +14,6 @@ https://yangping.xyz/tags/hexo-theme/
 https://yangping.xyz/tags/hexo%E4%B8%BB%E9%A2%98/
 https://yangping.xyz/tags/%E4%B8%BB%E9%A2%98/
 https://yangping.xyz/tags/hello-world/
-https://yangping.xyz/tags/hexo/
-https://yangping.xyz/tags/%E5%9B%BE%E7%89%87/
 https://yangping.xyz/tags/Typora/
 https://yangping.xyz/tags/obsidian/
 https://yangping.xyz/tags/Front-matter/
