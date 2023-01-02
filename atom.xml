@@ -46,7 +46,7 @@
     <link href="https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9F%BA%E4%BA%8Ehexo-github-%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%F0%9F%96%BB/32bb1f000929.html"/>
     <id>https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%A6%82%E4%BD%95%E5%9C%A8%E5%9F%BA%E4%BA%8Ehexo-github-%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%F0%9F%96%BB/32bb1f000929.html</id>
     <published>2023-01-01T16:00:00.000Z</published>
-    <updated>2023-01-02T09:00:53.086Z</updated>
+    <updated>2023-01-02T09:01:22.538Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>我们知道，基于 <strong>Hexo+GitHub Pages</strong> 可实现远程的静态博客功能，在实际使用过程中，我们如果在某一篇博客内添加了图片，往往会由于图片的引用路径和远程仓库中图片路径不一致，导致在本地正常显示的图片部署到 github 仓库🐹后出现图片无效的问题。我们可以通过以下方法解决以上问题。</p><span id="more"></span><h2 id="1、新建img文件夹📁"><a href="#1、新建img文件夹📁" class="headerlink" title="1、新建img文件夹📁"></a>1、新建img文件夹📁</h2><p>在站点目录下的source目录下新建img文件夹：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109195624.png"></p><h2 id="2、设置Typora的图片插入🔌"><a href="#2、设置Typora的图片插入🔌" class="headerlink" title="2、设置Typora的图片插入🔌"></a>2、设置Typora的图片插入🔌</h2><p>找到Typora的【偏好设置】 –&gt; 【图片插入】，选择【复制图片到.&#x2F;${filename}.assets文件夹】<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109200109.png"></p><p>并勾选以下三个功能选项：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109200425.png"></p><h2 id="3、设置当插入本地图片时复制到文件夹📁"><a href="#3、设置当插入本地图片时复制到文件夹📁" class="headerlink" title="3、设置当插入本地图片时复制到文件夹📁"></a>3、设置当插入本地图片时复制到文件夹📁</h2><p>找到Typora的【编辑】选项卡 –&gt;【图片工具】–&gt;【当插入本地图片时】–&gt;【复制到文件夹…】：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109200002.png"></p><p>选择在source目录下新建的img文件夹：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109195809.png"></p><p>点击确认后我们可以发现文件头出现<em>typora-copy-images-to: ..\img</em> 的字样，表示我们配置成功：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201006.png"></p><h2 id="4、设置图片根目录📇"><a href="#4、设置图片根目录📇" class="headerlink" title="4、设置图片根目录📇"></a>4、设置图片根目录📇</h2><p>找到Typora的【编辑】选项卡 –&gt;【图片工具】–&gt;【设置图片根目录】<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201446.png"></p><p>选择站点目录下的<em>source</em>文件夹，也就是<em>img</em>文件夹的上级：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201423.png"></p><p>点击确认后我们可以发现文件头出现<em>typora-root-url: ..</em> 的字样，表示我们配置成功<br><img src="https://cdn.jsdelivr.net/gh/macis/images/Pasted%20image%2020221109201540.png"></p>]]></content>
     
@@ -55,12 +55,38 @@
     
     
     
+    <category term="解决方案" scheme="https://yangping.xyz/categories/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
     
     <category term="hexo" scheme="https://yangping.xyz/tags/hexo/"/>
     
     <category term="图片" scheme="https://yangping.xyz/tags/%E5%9B%BE%E7%89%87/"/>
     
     <category term="Typora" scheme="https://yangping.xyz/tags/Typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Obsidian 模板快速创建hexo博客的 Front-matter 🛹</title>
+    <link href="https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%BD%BF%E7%94%A8-Obsidian-%E6%A8%A1%E6%9D%BF%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E7%9A%84-Front-matter-%F0%9F%9B%B9/18a517a9178d.html"/>
+    <id>https://yangping.xyz/2023/01/02/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E4%BD%BF%E7%94%A8-Obsidian-%E6%A8%A1%E6%9D%BF%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E7%9A%84-Front-matter-%F0%9F%9B%B9/18a517a9178d.html</id>
+    <published>2023-01-01T16:00:00.000Z</published>
+    <updated>2023-01-02T09:01:42.010Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="1、创建模板"><a href="#1、创建模板" class="headerlink" title="1、创建模板"></a>1、创建模板</h2><p>我们可以在 hexo站点下的 source 目录下创建一个模板文件夹 <em>Template</em>，并创建一个模板文件 <em>Front-matter.md</em>，内容为：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123;title&#125;&#125;</span><br><span class="line">date: &#123;&#123;date&#125;&#125;</span><br><span class="line">categories: &#123;&#123;&#125;&#125;</span><br><span class="line">tags: []</span><br><span class="line">---</span><br></pre></td></tr></table></figure><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/macis/images/20221111153901.png"></p><h2 id="2、设置模板"><a href="#2、设置模板" class="headerlink" title="2、设置模板"></a>2、设置模板</h2><p>找到 Obsidian 的【设置】，在『核心插件』选项卡中单击【模板】，填入模板文件夹的位置，并可自定义日期格式（默认即可）：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/20221111153537.png"></p><h2 id="3、使用模板"><a href="#3、使用模板" class="headerlink" title="3、使用模板"></a>3、使用模板</h2><p>单击左侧工具栏的【插入模板】按钮即可插入模板：<br><img src="https://cdn.jsdelivr.net/gh/macis/images/20221111153815.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;1、创建模板&quot;&gt;&lt;a href=&quot;#1、创建模板&quot; class=&quot;headerlink&quot; title=&quot;1、创建模板&quot;&gt;&lt;/a&gt;1、创建模板&lt;/h2&gt;&lt;p&gt;我们可以在 hexo站点下的 source 目录下创建一个模板文件夹 &lt;em&gt;Template&lt;/em&gt;，并创建一个模板文件 &lt;em&gt;Front-matter.md&lt;/em&gt;，内容为：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;title: &amp;#123;&amp;#123;title&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;date: &amp;#123;&amp;#123;date&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;categories: &amp;#123;&amp;#123;&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;tags: []&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    
+    <category term="obsidian" scheme="https://yangping.xyz/tags/obsidian/"/>
+    
+    <category term="Front-matter" scheme="https://yangping.xyz/tags/Front-matter/"/>
+    
+    <category term="模板" scheme="https://yangping.xyz/tags/%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
