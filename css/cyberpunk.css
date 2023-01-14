@@ -2837,7 +2837,7 @@ body.has-navbar-fixed-bottom {
   overflow-y: hidden;
 }
 .navbar-burger {
-  color: #000;
+  color: #fcee09;
   cursor: pointer;
   display: block;
   height: 3.25rem;
@@ -2883,7 +2883,7 @@ body.has-navbar-fixed-bottom {
 }
 .navbar-item,
 .navbar-link {
-  color: #000;
+  color: #fcee09;
   display: block;
   line-height: 1.5;
   padding: 0.5rem 0.75rem;
@@ -2907,7 +2907,7 @@ a.navbar-item:hover,
 a.navbar-item.is-active,
 .navbar-link.is-active {
   background-color: transparent;
-  color: #000;
+  color: #fcee09;
 }
 .navbar-item {
   display: block;
@@ -3213,7 +3213,7 @@ a.navbar-item.is-active,
   }
   a.navbar-item.is-active,
   .navbar-link.is-active {
-    color: #000;
+    color: #fcee09;
   }
   a.navbar-item.is-active:not(:focus):not(:hover),
   .navbar-link.is-active:not(:focus):not(:hover) {
