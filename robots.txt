@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /bin/cgi/
+
+Disallow: /tmp/
+
+Disallow: /foo.html
